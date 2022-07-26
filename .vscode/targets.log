@@ -1,0 +1,398 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 3.81
+# Copyright (C) 2006  Free Software Foundation, Inc.
+# This is free software; see the source for copying conditions.
+# There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.
+
+# This program built for i686-pc-msys
+ 
+make.exe: *** No rule to make target `all'.  Stop.
+
+
+# Make data base, printed on Mon Jul 25 20:37:09 2022
+
+# Variables
+
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# automatic
+?F = $(notdir $?)
+# environment
+QTMSBUILD = C:\Users\zz\AppData\Local\QtMsBuild
+# environment
+WSLENV = WT_SESSION::WT_PROFILE_ID
+# environment
+ELECTRON_NO_ATTACH_CONSOLE = 1
+# environment
+NVCUDASAMPLES10_2_ROOT = C:\ProgramData\NVIDIA Corporation\CUDA Samples\v10.2
+# makefile
+MAKEFLAGS = Rrqp
+# environment
+PYCHARM PROFESSIONAL EDITION WITH ANACONDA PLUGIN = C:\Program Files\JetBrains\PyCharm Professional Edition with Anaconda plugin 2020.1.5\bin;
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+HOMEDRIVE = C:
+# automatic
+@F = $(notdir $@)
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# makefile
+CURDIR := /d/code/go/simplebank
+# default
+SHELL := /bin/sh
+# environment
+WINDIR = C:\WINDOWS
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en","availableLanguages":{},"_languagePackSupport":true}
+# environment
+VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
+# environment
+ONEDRIVE = C:\Users\zz\OneDrive
+# environment
+MSMPI_BIN = C:\Program Files\Microsoft MPI\Bin\
+# environment
+PATHEXT = .PY;.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+# makefile (from `Makefile', line 1)
+MAKEFILE_LIST :=  Makefile
+# environment
+FPS_BROWSER_USER_PROFILE_STRING = Default
+# environment
+TMP = /tmp
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+PROGRAMDATA = C:\ProgramData
+# environment
+VSCODE_CWD = D:\code\go\simplebank
+# environment
+PATH = /c/ProgramData/Anaconda3/condabin:/c/VulkanSDK/1.3.211.0/Bin:/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/c/Program Files/Voxeldance Additive/Voxeldance Additive 3.0/spatial/code/bin/:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/c/WINDOWS/System32/OpenSSH/:/c/Users/zz/AppData/Roaming/npm:/c/Program Files/nodejs:C:/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/c/Program Files/Pandoc/:/c/Program Files/dotnet/:/c/Program Files/CMake/bin:/d/code/C++/depot_tools:.:/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/c/WINDOWS/System32/OpenSSH/:/c/Program Files/Docker/Docker/resources/bin:/c/ProgramData/DockerDesktop/version-bin:/d/code/scoop/shims:/c/Users/zz/AppData/Local/Microsoft/WindowsApps:/c/Users/zz/AppData/Local/GitHubDesktop/bin:/c/Users/zz/AppData/Local/Programs/Microsoft VS Code/bin:/c/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin:/c/Users/zz/.dotnet/tools:/c/Program Files/Azure Data Studio/bin:/c/Users/zz/AppData/Local/Programs/Python/Python39:/c/Users/zz/AppData/Local/Programs/Python/Python39/Scripts:/c/Users/zz/apps/gsudo:/c/Program Files/mingw64/bin:/c/Program Files/ffmpeg/bin:/c/Program Files/JetBrains/PyCharm Professional Edition with Anaconda plugin 2020.1.5/bin:/c/Windows/System32/WindowsPowerShell/v1.0/:/c/Windows/System32/:/c/Program Files/Git/bin:/c/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.16.27023/bin/Hostx64/x64/:/usr/bin:/c/Program Files/Go/bin:/d/code/go/bin:/c/Program Files/JetBrains/JetBrains Rider 2020.1.0/bin:/c/Users/zz/AppData/Local/Programs/MiKTeX/miktex/bin/x64/:/c/Program Files/JetBrains/IntelliJ IDEA 2022.1/bin:/c/Users/zz/AppData/Local/Programs/Fiddler:/c/Users/zz/AppData/Local/Microsoft/WindowsApps:/c/Program Files/JetBrains/GoLand 2021.3.4/bin:/c/Users/zz/.dotnet/tools
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# environment
+ZES_ENABLE_SYSMAN = 1
+# environment
+PROCESSOR_ARCHITECTURE = x86
+# environment
+USERPROFILE = C:\Users\zz
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+GOPATH = D:\code\go
+# environment
+NUMBER_OF_PROCESSORS = 8
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# default
+.FEATURES := target-specific order-only second-expansion else-if archives jobserver check-symlink
+# environment
+NVTOOLSEXT_PATH = C:\Program Files\NVIDIA Corporation\NvToolsExt\
+# environment
+VK_SDK_PATH = C:\VulkanSDK\1.3.211.0
+# environment
+INTELLIJ IDEA = C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\bin;
+# automatic
+%F = $(notdir $%)
+# environment
+CONDA_EXE = C:\ProgramData\Anaconda3\Scripts\conda.exe
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_46308_QHTVKIAOQENBIXYX
+# environment
+CUDA_PATH_V10_2 = C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2
+# environment
+COMPUTERNAME = ZZ
+# environment
+DEPOT_TOOLS_WIN_TOOLCHAIN = 0
+# environment
+PROGRAMFILES = C:\Program Files (x86)
+# environment
+GOLAND = C:\Program Files\JetBrains\GoLand 2021.3.4\bin;
+# environment
+NVIDIAWHITELISTED = 0x01
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+NVCUDASAMPLES_ROOT = C:\ProgramData\NVIDIA Corporation\CUDA Samples\v10.2
+# environment
+ASL.LOG = Destination=file
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+WT_SESSION = 83da77d7-a398-44fd-8991-d89b1f2b1e02
+# environment
+USERNAME = zz
+# environment
+PUBLIC = C:\Users\Public
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+JETBRAINS RIDER = C:\Program Files\JetBrains\JetBrains Rider 2020.1.0\bin;
+# environment
+VSCODE_CLI = 1
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\zz\AppData\Roaming\Code\CachedData\3b889b090b5ad5793f524b5d1d39fda662b96a2a
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# environment
+COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
+# environment
+LOGONSERVER = \\ZZ
+# environment
+MSVC = C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333
+# environment
+ONEDRIVECONSUMER = C:\Users\zz\OneDrive
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# environment
+USERDOMAIN = ZZ
+# environment
+MSMPI_BENCHMARKS = C:\Program Files\Microsoft MPI\Benchmarks\
+# default
+MAKE = $(MAKE_COMMAND)
+# default
+MAKECMDGOALS := all
+# environment
+!D: = d:\code\go\simplebank
+# environment
+SHIM_MCCOMPAT = 0x810000001
+# default
+MAKE_VERSION := 3.81
+# makefile
+.DEFAULT_GOAL := postgres
+# environment
+GOROOT = C:\Program Files\Go
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+LOCALAPPDATA = C:\Users\zz\AppData\Local
+# environment
+CONDA_SHLVL = 0
+# environment
+PSMODULEPATH = %ProgramFiles%\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\PowerShell\Modules\
+# default
+MAKE_COMMAND := make.exe
+# environment
+PROCESSOR_ARCHITEW6432 = AMD64
+# default
+.VARIABLES := 
+# automatic
+*F = $(notdir $*)
+# environment
+NODE_PATH = C:\Program Files\nodejs
+# environment
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+# environment
+OS = Windows_NT
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\8c916d4ac0518d0281fb5feebf9602f4-1.69.2-main-sock
+# environment
+HOMEPATH = \
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+PROMPT = $P$G
+# environment
+MFLAGS = -Rrqp
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+MSMPI_LIB32 = C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x86\
+# environment
+SYSTEMROOT = C:\WINDOWS
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# automatic
++F = $(notdir $+)
+# environment
+APPDATA = C:\Users\zz\AppData\Roaming
+# environment
+TEMP = /tmp
+# environment
+WT_PROFILE_ID = {0caa0dad-35be-5f56-a8ff-afceeeaa6101}
+# environment
+COMSPEC = C:\WINDOWS\system32\cmd.exe
+# default
+MAKEFILES := 
+# environment
+SCOOP = D:\code\scoop
+# automatic
+<F = $(notdir $<)
+# environment
+MSMPI_INC = C:\Program Files (x86)\Microsoft SDKs\MPI\Include\
+# environment
+LC_ALL = C
+# automatic
+^F = $(notdir $^)
+# environment
+CUDA_PATH = C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2
+# default
+SUFFIXES := 
+# environment
+SYSTEMDRIVE = C:
+# environment
+PROCESSOR_REVISION = 8c01
+# environment
+MOZ_PLUGIN_PATH = C:\Program Files (x86)\Foxit Software\Foxit Reader Plus\plugins\
+# default
+.INCLUDE_DIRS = /usr/include /usr/include
+# environment
+MAKELEVEL := 0
+# environment
+VULKAN_SDK = C:\VulkanSDK\1.3.211.0
+# environment
+CONDA_BAT = C:\ProgramData\Anaconda3\condabin\conda.bat
+# environment
+LANG = C
+# environment
+PROCESSOR_LEVEL = 6
+# environment
+TERM = cygwin
+# environment
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+# environment
+VSCODE_PID = 46308
+# environment
+MSMPI_LIB64 = C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x64\
+# environment
+USERDOMAIN_ROAMINGPROFILE = ZZ
+# variable set hash-table stats:
+# Load=123/1024=12%, Rehash=0, Collisions=11/148=7%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (device -7286, inode 1376784): 7 files, no impossibilities.
+
+# 7 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+postgres:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  commands to execute (from `Makefile', line 2):
+	docker run --name postgres14 -e POSTGRES_PASSWORD=123456 -e POSTGRES_USER=root -p 5432:5432 -d postgres:14-alpine
+	
+
+# Not a target:
+all:
+#  Command-line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+ 
+#  File has not been updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+.PHONY: postgres, createdb, dropdb, migrateup, migratedown
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+.SUFFIXES:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-23 23:39:33
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+createdb,:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+createdb:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  commands to execute (from `Makefile', line 5):
+	docker exec -it postgres14 createdb --username=root --owner=root simple_bank
+	
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+dropdb,:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+migrateup,:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+dropdb:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  commands to execute (from `Makefile', line 8):
+	docker exec -it postgres14 dropdb simple_bank
+	
+
+migrateup:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  commands to execute (from `Makefile', line 11):
+	migrate --path db/migration --database="postgresql://root:123456@localhost:5432/simple_bank?sslmode=disable" -verbose up
+	
+
+migratedown:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  commands to execute (from `Makefile', line 14):
+	migrate --path db/migration --database="postgresql://root:123456@localhost:5432/simple_bank?sslmode=disable" -verbose down
+	
+
+postgres,:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+# files hash-table stats:
+# Load=14/1024=1%, Rehash=0, Collisions=0/30=0%
+# VPATH Search Paths
+
+# No `vpath' search paths.
+
+# No general (`VPATH' variable) search path.
+
+# # of strings in strcache: 1
+# # of strcache buffers: 1
+# strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
+# strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
+
+# Finished Make data base on Mon Jul 25 20:37:09 2022
+
+ 

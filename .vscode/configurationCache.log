@@ -1,0 +1,1 @@
+{"buildTargets":["createdb","createdb,","dropdb","dropdb,","migratedown","migrateup","migrateup,","postgres","postgres,"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
