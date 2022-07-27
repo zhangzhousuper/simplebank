@@ -6,11 +6,8 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 # PARTICULAR PURPOSE.
 
 # This program built for i686-pc-msys
- 
-make.exe: *** No rule to make target `all'.  Stop.
 
-
-# Make data base, printed on Wed Jul 27 00:43:46 2022
+# Make data base, printed on Wed Jul 27 15:45:38 2022
 
 # Variables
 
@@ -103,7 +100,7 @@ INTELLIJ IDEA = C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\bin;
 # environment
 CONDA_EXE = C:\ProgramData\Anaconda3\Scripts\conda.exe
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_61852_CSQZMCTTVSCHJVHB
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_7716_TOZLHJSULJWUPCDY
 # environment
 CUDA_PATH_V10_2 = C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2
 # environment
@@ -125,7 +122,7 @@ ASL.LOG = Destination=file
 # environment
 ORIGINAL_XDG_CURRENT_DESKTOP = undefined
 # environment
-WT_SESSION = 8429f60c-1a5d-419f-b46f-1e7e8577ceee
+WT_SESSION = be0b867b-bd9d-4054-9c61-cb9c57c18370
 # environment
 USERNAME = zz
 # environment
@@ -259,7 +256,7 @@ TERM = cygwin
 # environment
 FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 # environment
-VSCODE_PID = 61852
+VSCODE_PID = 7716
 # environment
 MSMPI_LIB64 = C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x64\
 # environment
@@ -329,7 +326,7 @@ sqlc:
 # Not a target:
 Makefile:
 #  Implicit rule search has been done.
-#  Last modified 2022-07-26 23:50:47
+#  Last modified 2022-07-27 01:52:10
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
@@ -425,6 +422,8 @@ postgres,:
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Wed Jul 27 00:43:46 2022
+# Finished Make data base on Wed Jul 27 15:45:38 2022
 
  
+make.exe: *** No rule to make target `all'.  Stop.
+
