@@ -7,7 +7,7 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 
 # This program built for i686-pc-msys
 
-# Make data base, printed on Wed Jul 27 15:45:38 2022
+# Make data base, printed on Mon Aug  1 12:45:41 2022
 
 # Variables
 
@@ -70,7 +70,7 @@ VSCODE_CWD = D:\code\go\simplebank
 # environment
 GOPROXY = https://goproxy.cn,direct
 # environment
-PATH = /c/Program Files/Go/bin:/c/ProgramData/Anaconda3/condabin:/c/VulkanSDK/1.3.211.0/Bin:/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/c/Program Files/Voxeldance Additive/Voxeldance Additive 3.0/spatial/code/bin/:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/c/WINDOWS/System32/OpenSSH/:/c/Users/zz/AppData/Roaming/npm:/c/Program Files/nodejs:C:/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/c/Program Files/Pandoc/:/c/Program Files/dotnet/:/c/Program Files/CMake/bin:/d/code/C++/depot_tools:.:/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/c/WINDOWS/System32/OpenSSH/:/c/Program Files/Docker/Docker/resources/bin:/c/ProgramData/DockerDesktop/version-bin:/d/code/scoop/shims:/c/Users/zz/AppData/Local/Microsoft/WindowsApps:/c/Users/zz/AppData/Local/GitHubDesktop/bin:/c/Users/zz/AppData/Local/Programs/Microsoft VS Code/bin:/c/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin:/c/Users/zz/.dotnet/tools:/c/Program Files/Azure Data Studio/bin:/c/Users/zz/AppData/Local/Programs/Python/Python39:/c/Users/zz/AppData/Local/Programs/Python/Python39/Scripts:/c/Users/zz/apps/gsudo:/c/Program Files/mingw64/bin:/c/Program Files/ffmpeg/bin:/c/Program Files/JetBrains/PyCharm Professional Edition with Anaconda plugin 2020.1.5/bin:/c/Windows/System32/WindowsPowerShell/v1.0/:/c/Windows/System32/:/c/Program Files/Git/bin:/c/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.16.27023/bin/Hostx64/x64/:/usr/bin:/d/code/go/bin:/c/Program Files/JetBrains/JetBrains Rider 2020.1.0/bin:/c/Users/zz/AppData/Local/Programs/MiKTeX/miktex/bin/x64/:/c/Program Files/JetBrains/IntelliJ IDEA 2022.1/bin:/c/Users/zz/AppData/Local/Programs/Fiddler:/c/Users/zz/AppData/Local/Microsoft/WindowsApps:/c/Program Files/JetBrains/GoLand 2021.3.4/bin:/c/Users/zz/.dotnet/tools
+PATH = /c/Program Files/Go/bin:/c/ProgramData/Anaconda3/condabin:/c/VulkanSDK/1.3.211.0/Bin:/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/c/Program Files/Voxeldance Additive/Voxeldance Additive 3.0/spatial/code/bin/:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/c/WINDOWS/System32/OpenSSH/:/c/Users/zz/AppData/Roaming/npm:/c/Program Files/nodejs:C:/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/c/Program Files/Pandoc/:/c/Program Files/dotnet/:/c/Program Files/CMake/bin:/d/code/C++/depot_tools:.:/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/c/WINDOWS/System32/OpenSSH/:/c/Program Files/Docker/Docker/resources/bin:/c/ProgramData/DockerDesktop/version-bin:/d/code/scoop/shims:/c/Users/zz/AppData/Local/Microsoft/WindowsApps:/c/Users/zz/AppData/Local/GitHubDesktop/bin:/c/Users/zz/AppData/Local/Programs/Microsoft VS Code/bin:/c/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin:/c/Users/zz/.dotnet/tools:/c/Program Files/Azure Data Studio/bin:/c/Users/zz/AppData/Local/Programs/Python/Python39:/c/Users/zz/AppData/Local/Programs/Python/Python39/Scripts:/c/Users/zz/apps/gsudo:/c/Program Files/mingw64/bin:/c/Program Files/ffmpeg/bin:/c/Program Files/JetBrains/PyCharm Professional Edition with Anaconda plugin 2020.1.5/bin:/c/Windows/System32/WindowsPowerShell/v1.0/:/c/Windows/System32/:/c/Program Files/Git/bin:/c/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.16.27023/bin/Hostx64/x64/:/usr/bin:/d/code/go/bin:/c/Program Files/JetBrains/JetBrains Rider 2020.1.0/bin:/c/Users/zz/AppData/Local/Programs/MiKTeX/miktex/bin/x64/:/c/Program Files/JetBrains/IntelliJ IDEA 2022.1/bin:/c/Users/zz/AppData/Local/Programs/Fiddler:/c/Program Files/JetBrains/GoLand 2021.3.4/bin:%USERPROFILE%/AppData/Local/Microsoft/WindowsApps
 # environment
 COMMONPROGRAMW6432 = C:\Program Files\Common Files
 # environment
@@ -100,7 +100,7 @@ INTELLIJ IDEA = C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\bin;
 # environment
 CONDA_EXE = C:\ProgramData\Anaconda3\Scripts\conda.exe
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_7716_TOZLHJSULJWUPCDY
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_21740_DMLCJUCJSAUNTWKB
 # environment
 CUDA_PATH_V10_2 = C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2
 # environment
@@ -122,7 +122,7 @@ ASL.LOG = Destination=file
 # environment
 ORIGINAL_XDG_CURRENT_DESKTOP = undefined
 # environment
-WT_SESSION = be0b867b-bd9d-4054-9c61-cb9c57c18370
+WT_SESSION = 52b72acb-4845-407a-b7bf-4b8d91ec819d
 # environment
 USERNAME = zz
 # environment
@@ -256,7 +256,7 @@ TERM = cygwin
 # environment
 FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 # environment
-VSCODE_PID = 7716
+VSCODE_PID = 21740
 # environment
 MSMPI_LIB64 = C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x64\
 # environment
@@ -270,9 +270,9 @@ USERDOMAIN_ROAMINGPROFILE = ZZ
 
 # Directories
 
-# . (device -7286, inode 1376784): 10 files, no impossibilities.
+# . (device -7286, inode 1376784): 13 files, no impossibilities.
 
-# 10 files, no impossibilities in 1 directories.
+# 13 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -303,7 +303,7 @@ sqlc,:
 #  File does not exist.
 #  File has not been updated.
 
-.PHONY: postgres, createdb, dropdb, migrateup, migratedown, sqlc, test
+.PHONY: postgres, createdb, dropdb, migrateup, migratedown, sqlc, test, server
 #  Implicit rule search has not been done.
 #  Modification time never checked.
 #  File has not been updated.
@@ -317,6 +317,12 @@ sqlc:
 	docker run --rm -v $(pwd):/src -w /src kjconroy/sqlc generate
 	
 
+test,:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
 # Not a target:
 .SUFFIXES:
 #  Implicit rule search has not been done.
@@ -326,7 +332,7 @@ sqlc:
 # Not a target:
 Makefile:
 #  Implicit rule search has been done.
-#  Last modified 2022-07-27 01:52:10
+#  Last modified 2022-08-01 00:11:03
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
@@ -338,10 +344,18 @@ createdb,:
 #  File does not exist.
 #  File has not been updated.
 
-test:
+server:
 #  Phony target (prerequisite of .PHONY).
 #  Implicit rule search has not been done.
 #  File does not exist.
+#  File has not been updated.
+#  commands to execute (from `Makefile', line 24):
+	go run main.go
+	
+
+test:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
 #  File has not been updated.
 #  commands to execute (from `Makefile', line 21):
 	go test -v -cover ./...
@@ -410,7 +424,7 @@ postgres,:
 #  File has not been updated.
 
 # files hash-table stats:
-# Load=18/1024=2%, Rehash=0, Collisions=0/36=0%
+# Load=20/1024=2%, Rehash=0, Collisions=0/39=0%
 # VPATH Search Paths
 
 # No `vpath' search paths.
@@ -422,7 +436,7 @@ postgres,:
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Wed Jul 27 15:45:38 2022
+# Finished Make data base on Mon Aug  1 12:45:41 2022
 
  
 make.exe: *** No rule to make target `all'.  Stop.
