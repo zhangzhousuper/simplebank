@@ -6,8 +6,11 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 # PARTICULAR PURPOSE.
 
 # This program built for i686-pc-msys
+ 
+make.exe: *** No rule to make target `all'.  Stop.
 
-# Make data base, printed on Tue Aug  2 15:03:23 2022
+
+# Make data base, printed on Sun Aug  7 21:42:09 2022
 
 # Variables
 
@@ -100,7 +103,7 @@ INTELLIJ IDEA = C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\bin;
 # environment
 CONDA_EXE = C:\ProgramData\Anaconda3\Scripts\conda.exe
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_34308_UCVBXZVGOILNFSTW
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_81184_PKBYZCBGISYBERDA
 # environment
 CUDA_PATH_V10_2 = C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2
 # environment
@@ -122,7 +125,7 @@ ASL.LOG = Destination=file
 # environment
 ORIGINAL_XDG_CURRENT_DESKTOP = undefined
 # environment
-WT_SESSION = c6794e5c-704e-486e-abbb-e05d4971b9ae
+WT_SESSION = 2d7b034d-6ab4-4bb1-a6ca-8a27b401ef9c
 # environment
 USERNAME = zz
 # environment
@@ -256,7 +259,7 @@ TERM = cygwin
 # environment
 FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 # environment
-VSCODE_PID = 34308
+VSCODE_PID = 81184
 # environment
 MSMPI_LIB64 = C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x64\
 # environment
@@ -450,8 +453,6 @@ postgres,:
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Tue Aug  2 15:03:23 2022
+# Finished Make data base on Sun Aug  7 21:42:09 2022
 
  
-make.exe: *** No rule to make target `all'.  Stop.
-
